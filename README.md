@@ -20,4 +20,8 @@ Implementação de um coletor de lixo por contagem de referências para a lingua
    * Os nomes das funções e seus respectivos parametros.
    
    * Criação do tipo de dado usado para lista global ( uma struct ).
+
+- O arquivo contref.a é a biblioteca.
+
+- O arquivo teste.c é um exemplo de uso (dado pela questão).
   
