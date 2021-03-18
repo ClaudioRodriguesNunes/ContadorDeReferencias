@@ -14,5 +14,10 @@
     Uma função para exibir a lista global (dump).
     
     Uma função para liberar todos os endereços alocados dinamicamente (encerra).
+   
+  O arquivo contref.h é o cabeçalho da biblioteca, que deve ser incluido em códigos que façam uso da biblioteca, e contem apenas: 
+
+    Os nomes das funções e seus respectivos parametros.
     
-    
+    Criação do tipo de dado usado para lista global ( uma struct ).
+  
