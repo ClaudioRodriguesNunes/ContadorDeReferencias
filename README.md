@@ -23,5 +23,5 @@ Implementação de um coletor de lixo por contagem de referências para a lingua
 
 - O arquivo contref.a é a biblioteca.
 
-- O arquivo teste.c é um exemplo de uso (dado pela questão).
+- O arquivo teste.c é um exemplo de uso (foi usado o atrib3 porque o atrib2, embora funcionando em todos os casos testados, estava dando um warning no void **).
   
