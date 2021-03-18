@@ -1,7 +1,7 @@
 # ContadorDeReferencias
 Implementação de um coletor de lixo por contagem de referências para a linguagem C, usando uma biblioteca estática.
 
-- O arquivo contref.c é o código fonte usado para gerar a biblioteca, nele constam:
+- O arquivo contref.c é o código fonte usado para gerar a biblioteca. nele constam:
   
    * As funções necessárias para o coletor (malloc2 / atrib2).
   
@@ -15,7 +15,7 @@ Implementação de um coletor de lixo por contagem de referências para a lingua
     
    * Uma função para liberar todos os endereços alocados dinamicamente (encerra).
    
-- O arquivo contref.h é o cabeçalho da biblioteca, que deve ser incluido em códigos que façam uso da biblioteca, e contem apenas: 
+- O arquivo contref.h é o cabeçalho da biblioteca, que deve ser incluido em códigos que façam uso da biblioteca. Contem apenas: 
 
    * Os nomes das funções e seus respectivos parametros.
    
